@@ -1,0 +1,24 @@
+{
+  "invoices": [
+    {
+      "issuerName": "TechStore S.A.",
+      "issuerId": "3-101-123456",
+      "clientName": "Juan Pérez",
+      "clientContact": "juan.perez@gmail.com",
+      "invoiceNumber": "FAC-001",
+      "issueDate": "2026-09-07",
+      "items": [
+        {
+          "description": "Tacometro digital ",
+          "quantity": 1,
+          "price": "27000"
+        }
+      ],
+      "subtotal": 27000,
+      "tax": 3510,
+      "total": 30510,
+      "id": "sQr9LH65PJQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
